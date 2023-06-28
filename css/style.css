@@ -1,0 +1,32 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+h2{text-align:center;
+	color:#800080;
+	}
+
+#car{
+	text-indent:80px;
+	line-height:1;
+	text-align:justify;
+	word-spacing:2px;
+	letter-spacing:1px;
+	text-transform:capitalize;
+}
+
+#cartoon{
+	font-size:15px;
+	font-weight:850;
+	font-family:Times new roman;
+	font-style:italic;
+}
+
+#chennai{
+	color:rgb(255, 99, 71);
+}
+
+#water
+	{color:#7fff00;}
+	{color:#8b0000;}
